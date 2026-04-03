@@ -39,6 +39,14 @@
 
     </subsection>
 
+    <subsection>
+    <title>Quizzes/Classwork/Assignments/Projects</title>
+
+      <p>
+        Our cumulative final exam will be held Monday, May 11th from 8:00am-11:00am in Hemenway Hall 405.
+      </p>
+    </subsection>
+
 
    <subsection>
     <title>Exams</title>
@@ -69,10 +77,7 @@
     <title>Final Exam</title>
 
       <p>
-        The final exam will be cumulative.
-        As you work through the semester, always keep this in mind.
-        You need to grow beyond basic understand to see things at a deeper level.
-        That is how you will retain knowledge and be able to succeed on new problems!
+        Our cumulative final exam will be held Monday, May 11th from 8:00am-11:00am in Hemenway Hall 405.
       </p>
     </subsection>
 
@@ -96,23 +101,22 @@
           <cell>10%</cell>
         </row>
         <row>
-          <cell>Course Objectives</cell>
-          <cell>50%</cell>
+          <cell>Quizzes</cell>
+          <cell>20%</cell>
         </row>
         <row>
-          <cell>Midterm Exam</cell>
-          <cell>15%</cell>
+          <cell>Exams</cell>
+          <cell>40%</cell>
         </row>
         <row>
           <cell>Final Exam</cell>
-          <cell>25%</cell>
+          <cell>30%</cell>
         </row>
       </tabular>
 
 
       <p>
         Final grades will be assigned based on the following scale.
-        Students needing to take MATH 219 Calculus I are required to earn a C (2.00) or better in MATH 180 Precalculus.
       </p>
 
       <tabular halign="center">
