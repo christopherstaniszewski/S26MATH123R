@@ -18,13 +18,7 @@
          <title>Student Help Hours</title>
 
           <p>
-            Mondays, Thursdays, and Fridays at 11:30-12:30
-          </p>
-
-          <p>
-            <alert>Important</alert>: I <em>want</em> to see you in student hours, and will happily make appointments with you outside of the regular hours.
-            I'm also available by email and will respond within 24 hours, usually much sooner.
-            There is little I enjoy more than discussing mathematics, so you are really doing me a favor by coming to see me.
+            Mondays, Thursdays, and Fridays at 11:30-12:30 and/or by appointment
           </p>
       </li>
 
@@ -32,7 +26,7 @@
         <title>Class meets</title>
 
         <p>
-          MWRF 11:30am - 12:20pm in HH 405
+          MW 2:30-4:20 in HH 405 (Lecture),  F 12:30-1:20 (Recitation A) or F 1:30-2:20 (Recitation B)
         </p>
       </li>
 
@@ -40,8 +34,10 @@
         <title>Course Description</title>
 
         <p>
-          A thorough preparation in the skills and topics needed to study calculus.
-          After a review of polynomial and rational functions and their graphs, topics include inverse functions, exponential and logarithmic functions, and trigonometric functions.
+          An exploration of numerical, graphical, and symbolic approaches to function concepts with emphasis
+on real-world applications, modeling, and problem-solving skills. Topics include polynomial and
+rational functions, equations and inequalities, systems of linear equations, and the connection
+between functions and their graphs. 
         </p>
       </li>
 
@@ -49,7 +45,8 @@
         <title>Prerequisite</title>
 
         <p>
-          Completion of MATH 123 Introduction to Functions with a minimum grade of C (2.00) or better, or a satisfactory score on the mathematics placement examination.
+          Satisfactory score on the mathematics placement.  Also, our course is a prerequisite other courses, including MATH 180 Precalculus.
+Some of them require you to earn at least a C in MATH 123.
         </p>
       </li>
 
@@ -68,8 +65,8 @@
         <title>Textbook</title>
 
         <p>
-          <pubtitle>Precalculus</pubtitle>
-          by OpenStax (2nd edition). <url href="https://openstax.org/details/books/precalculus-2e" visual="openstax/precalculus">Read Online</url>
+          <pubtitle>College Algebra</pubtitle>
+          by OpenStax (5th edition). <url href="https://openstax.org/details/books/college-algebra-2e" visual="openstax/precalculus">Read Online</url>
         </p>
 
         <blockquote>
